@@ -114,7 +114,7 @@ class App extends Component {
     this.state.loading
       ? (content = (
           <p id="loader" className="text-center" style={{ color: 'white', margin: '30px' }}>
-            LOADING PLEASE...
+            LOADING...
           </p>
         ))
       : (content = (
