@@ -6,9 +6,9 @@ class Navbar extends Component {
         return (
             <nav className='navbar navbar-dark fixed-top shadow p-0' style={{backgroundColor: 'white', height: '50px'}}>
                 <div className='navbar-brand col-sm-3 col-md-2 mr-0'
-                     style={{color: 'black', background: 'none', border: 'none', display: 'flex', alignItems: 'center', marginLeft: '20px'}}>
+                     style={{color: 'black', background: 'none', border: 'none', display: 'flex', alignItems: 'center', marginLeft: '5px'}}>
                     <img src={bank} width='50' height='30' className='d-inline-block align-top' alt='Slogo'/>
-                    <span style={{marginLeft: '5px'}}>STAKEFI</span>
+                    <span style={{marginLeft: '10px'}}>STAKEFI</span>
                 </div>
                 <div style={{marginLeft: '2px', display: 'flex', alignItems: 'center'}}>
                     <button className='btn btn-link' style={{color: 'black'}}>Markets</button>
