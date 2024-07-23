@@ -20,7 +20,7 @@ class Main extends Component {
                         </tr>
                     </tbody>
                 </table>
-                <div className='card mb-2' style={{opacity: '.8', borderRadius: '10px'}}>
+                <div className='card mb-2' style={{opacity: '.9', borderRadius: '10px'}}>
                     <form 
                         onSubmit={(event) => {
                             event.preventDefault();
