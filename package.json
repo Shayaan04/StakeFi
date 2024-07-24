@@ -36,7 +36,6 @@
   },
   "scripts": {
     "start": "set NODE_OPTIONS=--openssl-legacy-provider && react-scripts start",
-    "prebuild": "shx chmod -R 755 node_modules/.bin",
     "build": "set NODE_OPTIONS=--openssl-legacy-provider && react-scripts build",
     "deploy": "vercel",
     "test": "react-scripts test",
