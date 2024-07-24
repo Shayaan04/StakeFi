@@ -1,0 +1,9 @@
+[build]
+  # Specify the build command to run
+  command = "npm run build"  # or "yarn build" if using Yarn
+  # Specify the directory where the built files are located
+  publish = "build"
+
+  [build.environment]
+  NODE_VERSION = "16.0"  # or the version you need
+  # Add other environment variables here
