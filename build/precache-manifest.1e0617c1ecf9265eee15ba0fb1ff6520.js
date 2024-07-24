@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "c66cca0fcc0c6e9b2bd7",
+    "revision": "7506a4dbd1751ef6045d",
     "url": "/static/css/main.e7c10e4c.chunk.css"
   },
   {
-    "revision": "c66cca0fcc0c6e9b2bd7",
-    "url": "/static/js/main.c66cca0f.chunk.js"
+    "revision": "7506a4dbd1751ef6045d",
+    "url": "/static/js/main.7506a4db.chunk.js"
   },
   {
     "revision": "8b3665a7b8ce8370fe7a",
@@ -28,7 +28,7 @@ self.__precacheManifest = [
     "url": "/static/media/tether.da702551.png"
   },
   {
-    "revision": "d6e911a0391b883acb41432a168a4c6b",
+    "revision": "452756b5f1a68b98eea2fadfa098cc99",
     "url": "/index.html"
   }
 ];
