@@ -34,7 +34,8 @@
         }
       ],
       "stateMutability": "view",
-      "type": "function"
+      "type": "function",
+      "constant": true
     },
     {
       "inputs": [
@@ -53,7 +54,8 @@
         }
       ],
       "stateMutability": "view",
-      "type": "function"
+      "type": "function",
+      "constant": true
     },
     {
       "inputs": [],
@@ -66,7 +68,8 @@
         }
       ],
       "stateMutability": "view",
-      "type": "function"
+      "type": "function",
+      "constant": true
     },
     {
       "inputs": [],
@@ -79,7 +82,8 @@
         }
       ],
       "stateMutability": "view",
-      "type": "function"
+      "type": "function",
+      "constant": true
     },
     {
       "inputs": [],
@@ -92,7 +96,8 @@
         }
       ],
       "stateMutability": "view",
-      "type": "function"
+      "type": "function",
+      "constant": true
     },
     {
       "inputs": [
@@ -111,7 +116,8 @@
         }
       ],
       "stateMutability": "view",
-      "type": "function"
+      "type": "function",
+      "constant": true
     },
     {
       "inputs": [
@@ -130,7 +136,8 @@
         }
       ],
       "stateMutability": "view",
-      "type": "function"
+      "type": "function",
+      "constant": true
     },
     {
       "inputs": [],
@@ -143,7 +150,8 @@
         }
       ],
       "stateMutability": "view",
-      "type": "function"
+      "type": "function",
+      "constant": true
     },
     {
       "inputs": [
@@ -12578,12 +12586,13 @@
     "5777": {
       "events": {},
       "links": {},
-      "address": "0xF08EA9AebCf47394b74f3cc2d54FA472f0D6b099",
-      "transactionHash": "0x4ff542cbc4d6a1a0e17010ab57f97b7127cee0846954207ae653f89d6e5e7a07"
+      "address": "0x9BAF1538ca754CD4631d3133753a889fFD4c5168",
+      "transactionHash": "0xa3792a3a99e24614e8a8015ab45f27007162f4feaeac635163d79f1f084150b7"
     }
   },
   "schemaVersion": "3.4.16",
-  "updatedAt": "2024-07-24T04:13:44.357Z",
+  "updatedAt": "2024-07-24T21:30:31.509Z",
+  "networkType": "ethereum",
   "devdoc": {
     "kind": "dev",
     "methods": {},
