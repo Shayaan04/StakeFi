@@ -36,6 +36,7 @@
     "start": "set NODE_OPTIONS=--openssl-legacy-provider && react-scripts start",
     "build": "set NODE_OPTIONS=--openssl-legacy-provider && react-scripts build",
     "test": "react-scripts test",
+    "deploy": "vercel",
     "eject": "react-scripts eject"
   },
   "eslintConfig": {
