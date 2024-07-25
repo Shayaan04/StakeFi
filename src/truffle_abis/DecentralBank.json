@@ -12586,12 +12586,12 @@
     "5777": {
       "events": {},
       "links": {},
-      "address": "0x3401A9dba76fc0BaBf7E894812E484433FfeB2dF",
-      "transactionHash": "0xb0978bae2f4a2986a240dd604dd69404ea593f9abd728ea3adbc60e77da1d871"
+      "address": "0xB2D9610b348eaEC77b92607156Fc976417646a13",
+      "transactionHash": "0x85a2c2e3048d3ed9e6dba5b03aa442ff0118e6708440a9cf969ca7c924eec92a"
     }
   },
   "schemaVersion": "3.4.16",
-  "updatedAt": "2024-07-25T01:14:38.613Z",
+  "updatedAt": "2024-07-25T01:29:25.770Z",
   "networkType": "ethereum",
   "devdoc": {
     "kind": "dev",
