@@ -1,1 +1,1 @@
-https://shayaan04.github.io/StakeFi/
+https://stakefi.netlify.app/
